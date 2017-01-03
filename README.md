@@ -2,17 +2,26 @@
 The School of Library, Archival and Information Studies (SLAIS)
 The University of British Columbia
 
+**Course title:** Python Programming, Course Code: LIBR 559C 
 
-** Course title:** Python Programming, Course Code: LIBR 559C 
 **Program:** MLIS, Dual
+
 **Year:** Winter Session II 2017
+
 **Time:** 9:00am-11:50am
+
 **Location:** SLAIS Terrace Lab 
+
 **Instructor:** Dr. Muhammad Abdul-Mageed
+
 **Office location:** 494
+
 **Office phone:** 6048-274-530
+
 **Office hours:** Mon. 1:00pm-3:00pm
+
 **E-mail address:** muhammad.mageed@ubc.ca
+
 **iSchool@UBC Student Portal:** http://connect.ubc.ca
 
 
