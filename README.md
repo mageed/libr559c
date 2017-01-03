@@ -25,18 +25,18 @@ The University of British Columbia
 **iSchool@UBC Student Portal:** http://connect.ubc.ca
 
 
-1.	Course Rationale & Goal: 
+## 1.	Course Rationale & Goal: 
 
-Rationale/Background: Python is a remarkably powerful dynamic programming language that is used for a very wide variety of application domains, including text processing, data mining and analytics, and web development. Python’s very clear, readable syntax (e.g., use of English keywords where other languages use punctuation) and strong introspection capabilities make it an ideal choice for novice programmers. Indeed, more and more instructors are adopting the language for introductory programming courses. 
+**Rationale/Background:** Python is a remarkably powerful dynamic programming language that is used for a very wide variety of application domains, including text processing, data mining and analytics, and web development. Python’s very clear, readable syntax (e.g., use of English keywords where other languages use punctuation) and strong introspection capabilities make it an ideal choice for novice programmers. Indeed, more and more instructors are adopting the language for introductory programming courses. 
 
-Goal: The goal of this course is to teach programming concepts using the Python programming language. The course is designed to be self-standing and proceeds from basic- to medium- and advanced concepts and assumes no prior programming experience. For an IT professional, programming skills are almost indispensable: General understanding of programming and programming experience both improve students’ overall understanding of information systems and help develop their general problem solving skills. Programming skills are also essential for analysis and mining of information users’ behaviors and communities. Good programming skills significantly boost work productivity and students usually utilize them during their program of study and throughout their professional lives. 
+**Goal:** The goal of this course is to teach programming concepts using the Python programming language. The course is designed to be self-standing and proceeds from basic- to medium- and advanced concepts and assumes no prior programming experience. For an IT professional, programming skills are almost indispensable: General understanding of programming and programming experience both improve students’ overall understanding of information systems and help develop their general problem solving skills. Programming skills are also essential for analysis and mining of information users’ behaviors and communities. Good programming skills significantly boost work productivity and students usually utilize them during their program of study and throughout their professional lives. 
 
-Potential audiences for this course are:
+**Potential audiences for this course are:**
 
 •	People with little or no programming and IT experience who want to acquire a medium-to-advanced level understanding of programming generally and Python specifically. 
 •	People planning to take (or have taken) courses on text analytics, social media mining, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, web and database design, or similar courses, who want to prepare for, or significantly advance, carrying out work and research in these areas.
 
-2.	Course Objectives: 
+## 2.	Course Objectives: 
 Upon completion of this course students will be able to:
 •	Identify, analyze, assess, and solve a problem or need using Python programming. [1.1]
 •	Apply Python programing knowledge to practical information access, extraction, retrieval, and data (e.g., text) mining tasks. [1.2]
@@ -44,7 +44,7 @@ Upon completion of this course students will be able to:
 •	Collaborate effectively with peers through course assignments, including demonstrating the ability to work as part of a team, including initiative taking, integrity, dependability and co-operation. [3.1]
 •	Understand, develop, and apply relevant library and information science tools to address information needs, questions and issues. [4.1]
 
-3.	Course Topics:
+## 3.	Course Topics:
 •	Overview of (Python) programming;
 •	Unix:
 ⎫	Directory navigation & control
@@ -63,34 +63,33 @@ Upon completion of this course students will be able to:
 ⎫	Text processing
 ⎫	Statistics & data visualization
 
-4.	Prerequisites:  
+## 4.	Prerequisites:  
 •	MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor
 •	Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
 
-5.	Format of the course: 
+##5.	Format of the course: 
 •	This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
 
-
-
-6. Course syllabus:
-Required book:
+## 6. Course syllabus:
+**Required book:**
 •	Chun, W. (2012). Core python application programming (3rd ed.). Prentice Hall. (ISBN-13: 007-6092048114; ISBN-10: 0132678209) 
-Suggested supplemental books:
+
+**Suggested supplemental books:**
 
 •	Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley Publishing. (ISBN-13: 978-1118290279; ISBN-10: 1118290275)
 •	Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495)
 •	Gawron, J. Mark. (2015). Python for social science. Available at: http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html. Accessed May 29th, 2016. 
 
-Online Tutorials:
-Pyplot:
+**Online Tutorials:**
+- Pyplot:
 •	http://matplotlib.org/api/pyplot_api.html
 •	http://matplotlib.org/users/pyplot_tutorial.html
 •	http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html#beyond-this-tutorial
 
-Pandas:
+- Pandas:
 •	http://www.scipy-lectures.org/packages/statistics/index.html
 
-7. Calendar / Weekly schedule and readings (tentative)
+## 7. Calendar / Weekly schedule and readings (tentative)
 
 C = Chun, W. Book 
 G= Gawron, M. Book
@@ -114,59 +113,44 @@ G= Gawron, M. Book
 | | Apr 8 | | | Final paper due |
 
 
-8. Course Assignments:
-Assignment
-Due date
-Weight
-ASSIGNMENT 1: In-class code
-Throughout first 12 weeks
-30%
-ASSIGNMENT 2: 
-Feb. 2
-10%
-ASSIGNMENT 3: 
-March 1
-15%
-ASSIGNMENT 4: Term Project (GROUP)
-Proposal
-Presentation 
-Report/Product
-
-March 8
-April 5
-April 8
-
-5%
-10%
-30%
+## 8. Course Assignments:
+| Assignment | Due date | Weight |
+| ---------- | -------- | ------ |
+| ASSIGNMENT 1: In-class code | Throughout first 12 weeks | 30% |
+| ASSIGNMENT 2: | Feb. 2 | 10% |
+| ASSIGNMENT 3: | March 1 | 15% |
+| ASSIGNMENT 4: Term Project (GROUP)| | |
+| Proposal | March 8 | 5% |
+| Presentation | April 5 | 10% |
+| Report/Product | April 8 |30% |
 
 
-* Notes about assignments:
+**Notes about assignments:**
 •	All written assignments must be submitted before 11:55 pm of a respective assignment date;
 •	All coding assignments must be submitted in the form of an iPython notebook. Support will be provided on how to create notebooks;
 •	Project proposal/outline must be in a pdf format;
 •	All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” etc.  
 o	For example: “abdul-mageed_assignment01.ipynb” 
 
-Assignments in Detail
+**Assignments in Detail**
 
-Assignment 1: In-class code
+**Assignment 1: In-class code**
 Throughout the first 12 weeks, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without a necessary excuse (e.g., a sickness or another emergency) will result in a lower class grade. 
 
-Deliverables: In-class code snippets
+**Deliverables: In-class code snippets**
 A total of 12 code snippets for the code you write for each of the first 12 weeks of class.
 
-Assignment 2 & assignment 3: Coding assignments
+**Assignment 2 & assignment 3: Coding assignments**
 These two assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
 
 •	You must run your code before submitting, and ensure it is working code. Also, you should provide the output of the code in the iPython notebook itself. For code that writes to a file, you are required to deliver the output files as well.
 •	For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 •	In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
-Deliverables: iPython notebooks with code
+**Deliverables: iPython notebooks with code**
 •	For each of assignment 1 and assignment 2, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
 
-Assignment 4: Term Project
+**Assignment 4: Term Project**
 The purposes of this assignment include:
 •	Identifying, analyzing, assessing, and solving a problem or need using Python programming;
 •	Applying acquired Python skills and knowledge to practical tasks;
@@ -175,7 +159,7 @@ The purposes of this assignment include:
 
 For this assignment, each student is required to work as part of a group of of 3/4* on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualize concepts from a data source, summarize texts, build a website that delivers some service, build a web interface or an app for a service (e.g., a library service), build an interactive database with use case scenarios in meaningful contexts. 
 
-Deliverables
+**Deliverables**
 Proposal (500-700 words)
 •	Who are the the group members?
 •	What are you designing or coding for?
@@ -186,10 +170,10 @@ Proposal (500-700 words)
 •	How does the work bread down and what each member of the team be contributing?
 •	Timeline for completing the project, including goals for each segment.
 
-Presentation
+**Presentation**
 Each team will present their final project to the class. Each student is required to participate in the presentation preparation and articulation. Your presentation should first motivate your work, explaining its significance and audience, and how it furthered your Python programming skills. The team should then explain the various steps the work involved and the final outcome and its functionality. The time devoted to presentations will depend on the number of projects and the class time available. More details about scheduling will be provided and discussed toward the end of the semester.
 
-Final Report/Paper (4000-5000 words)
+**Final Report/Paper (4000-5000 words)**
 The final deliverable should include:
 •	A detailed and clear description of your project, including the necessary sections, as appropriate. For system-oriented projects (e.g., building a website or an app), you will need to provide motivations, describe the audience, details of your implementation, and system functionality. For projects more focused on data analysis, you will need to include research questions, a brief literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
 •	All relevant code;
@@ -200,7 +184,7 @@ The final deliverable should include:
 •	Employment of figures, tables, and visualizations as appropriate to enhance argument and facilitate communicating your findings/results;
 
 
-9. Course Policies
+## 9. Course Policies
 
 Attendance: The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
@@ -208,11 +192,11 @@ Evaluation: All assignments will be marked using the evaluative criteria given i
 
 Written & Spoken English Requirement: Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
 
-Access & Diversity: Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
-Religious Accommodation: The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. UBC policy on Religious Holidays: http://www.universitycounsel.ubc.ca/policies/policy65.pdf.
+**Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
+**Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. UBC policy on Religious Holidays: http://www.universitycounsel.ubc.ca/policies/policy65.pdf.
 
-Academic Integrity
-Plagiarism
+## Academic Integrity
+**Plagiarism**
 The Faculty of Arts considers plagiarism to be the most serious academic offence that a student can commit. Regardless of whether or not it was committed intentionally, plagiarism has serious academic consequences and can result in expulsion from the university. Plagiarism involves the improper use of somebody else's words or ideas in one's work. 
 
 It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, "Plagiarism Avoided: Taking Responsibility for Your Work," (http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html).
