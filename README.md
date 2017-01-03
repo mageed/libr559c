@@ -1,5 +1,3 @@
-# libr559c
-UBC Python Programming Course (LIBR559C).
 # Python Programming,
 The School of Library, Archival and Information Studies (SLAIS)
 The University of British Columbia
@@ -108,7 +106,7 @@ Online tutorials, e.g.:
 | 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 2 due | 
 | 9 | Mar 8 | Web crawling G-Ch. 11 | Project outline due| 
 | 10 | Mar 15 Text processing I NLTK Ch. 3| NA |
-
+|-------|-------|-------|-------| -------|
 11
 Mar 22
 Statistics & data visualization I
