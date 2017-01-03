@@ -88,7 +88,6 @@ G= Gawron, M. Book
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-
 | 1 | Jan 5 | Course overview, Intro. to Unix
 Online tutorials, e.g.:
 •	https://files.fosswire.com/2007/08/fwunixref.pdf
@@ -96,7 +95,6 @@ Online tutorials, e.g.:
 •	http://www.tutorialspoint.com/unix/unix-file-management.htm 
 | NA | 
 | 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 | NA |
-
 |3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 1 out |
 |4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 | NA |
 | 5 | Feb 2 | Files and Input/Output; Errors and Exceptions C-Ch. 9, 10 | Assignment 1 due Assignment 2 out|
@@ -106,7 +104,7 @@ Online tutorials, e.g.:
 | 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 2 due | 
 | 9 | Mar 8 | Web crawling G-Ch. 11 | Project outline due| 
 | 10 | Mar 15 Text processing I NLTK Ch. 3| NA |
-|-------|-------|-------|-------| -------|
+
 11
 Mar 22
 Statistics & data visualization I
