@@ -88,38 +88,21 @@ G= Gawron, M. Book
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Jan 5 | Course overview, Intro. to Unix Online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm | NA | 
-| 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 | NA |
+| 1 | Jan 5 | Course overview, Intro. to Unix Online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
+| 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 |  |
 |3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 1 out |
-|4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 | NA |
+|4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
 | 5 | Feb 2 | Files and Input/Output; Errors and Exceptions C-Ch. 9, 10 | Assignment 1 due Assignment 2 out|
 |6 | Feb 9 | Functions; Modules C-Ch. 11, 12 |
-| NA | Feb 16 | Winter Break | NA |
-| 7 | Feb 23 | Classes C-Ch. 13 | NA |
+| | Feb 16 | Winter Break |  |
+| 7 | Feb 23 | Classes C-Ch. 13 |  |
 | 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 2 due | 
 | 9 | Mar 8 | Web crawling G-Ch. 11 | Project outline due| 
-| 10 | Mar 15 Text processing I NLTK Ch. 3| NA |
-
-11
-Mar 22
-Statistics & data visualization I
-Pandas tutorials I
-
-12
-Mar 29
-Statistics & data visualization II
-Pandas tutorials II & Pyplot
-
-13
-Apr 5
-
-
-Presentations
-
-Apr 8
-
-
-Final paper due
+| 10 | Mar 15 Text processing I NLTK Ch. 3|  |
+| 11 | Mar 22 | Statistics & data visualization I, Pandas tutorials I |  |
+| 12 | Mar 29 | Statistics & data visualization II, Pandas tutorials II & Pyplot |  |
+| 13 | Apr 5 | | Presentations |
+| | Apr 8 | | | Final paper due |
 
 
 8. Course Assignments:
