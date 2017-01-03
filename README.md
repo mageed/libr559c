@@ -8,7 +8,7 @@ The University of British Columbia
 
 **Year:** Winter Session II 2017
 
-**Time:** 9:00am-11:50am
+**Time:** 2:00–4:50 p.m.
 
 **Location:** SLAIS Terrace Lab 
 
