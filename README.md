@@ -48,9 +48,9 @@ Upon completion of this course students will be able to:
 ## 3.	Course Topics:
 * Overview of (Python) programming;
 * Unix:
-*Directory navigation & control*
-*File maintenance commands*
-*Display commands*
+*Directory navigation & control*,
+*File maintenance commands*,
+*Display commands*,
 *Text processing*
 
 * Data types (numbers. Strings, lists, tuples, and dictionaries/hashes);
@@ -62,8 +62,8 @@ Upon completion of this course students will be able to:
 * Regular expressions
 * Applications:
 
-*Web crawling and parsing*
-*Text processing*
+*Web crawling and parsing*,
+*Text processing*,
 *Statistics & data visualization*
 
 ## 4.	Prerequisites:  
