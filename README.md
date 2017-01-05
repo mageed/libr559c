@@ -33,54 +33,59 @@ The University of British Columbia
 
 **Potential audiences for this course are:**
 
-•	People with little or no programming and IT experience who want to acquire a medium-to-advanced level understanding of programming generally and Python specifically. 
-•	People planning to take (or have taken) courses on text analytics, social media mining, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, web and database design, or similar courses, who want to prepare for, or significantly advance, carrying out work and research in these areas.
+* People with little or no programming and IT experience who want to acquire a medium-to-advanced level understanding of programming generally and Python specifically. 
+* People planning to take (or have taken) courses on text analytics, social media mining, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, web and database design, or similar courses, who want to prepare for, or significantly advance, carrying out work and research in these areas.
 
 ## 2.	Course Objectives: 
 Upon completion of this course students will be able to:
-•	Identify, analyze, assess, and solve a problem or need using Python programming. [1.1]
-•	Apply Python programing knowledge to practical information access, extraction, retrieval, and data (e.g., text) mining tasks. [1.2]
-•	Enhance interpersonal and written communication skills through assignments and discussions with classmates and instructor. [2.1]
-•	Collaborate effectively with peers through course assignments, including demonstrating the ability to work as part of a team, including initiative taking, integrity, dependability and co-operation. [3.1]
-•	Understand, develop, and apply relevant library and information science tools to address information needs, questions and issues. [4.1]
+
+* Identify, analyze, assess, and solve a problem or need using Python programming. [1.1]
+* Apply Python programing knowledge to practical information access, extraction, retrieval, and data (e.g., text) mining tasks. [1.2]
+* Enhance interpersonal and written communication skills through assignments and discussions with classmates and instructor. [2.1]
+* Collaborate effectively with peers through course assignments, including demonstrating the ability to work as part of a team, including initiative taking, integrity, dependability and co-operation. [3.1]
+* Understand, develop, and apply relevant library and information science tools to address information needs, questions and issues. [4.1]
 
 ## 3.	Course Topics:
-•	Overview of (Python) programming;
-•	Unix:
-⎫	Directory navigation & control
-⎫	File maintenance commands
-⎫	Display commands
-⎫	Text processing
-•	Data types (numbers. Strings, lists, tuples, and dictionaries/hashes);
-•	Control flow & functions;
-•	File input and output;
-•	Exception handling;
-•	Iterators and generators;
-•	Object-oriented programming;
-•	Regular expressions
-•	Applications:
-⎫	Web crawling and parsing
-⎫	Text processing
-⎫	Statistics & data visualization
+* Overview of (Python) programming;
+* Unix:
+*Directory navigation & control*
+*File maintenance commands*
+*Display commands*
+*Text processing*
+
+* Data types (numbers. Strings, lists, tuples, and dictionaries/hashes);
+* Control flow & functions;
+* File input and output;
+* Exception handling;
+* Iterators and generators;
+* Object-oriented programming;
+* Regular expressions
+* Applications:
+
+*Web crawling and parsing*
+*Text processing*
+*Statistics & data visualization*
 
 ## 4.	Prerequisites:  
-•	MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor
-•	Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
+* MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor
+* Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
 
-##5.	Format of the course: 
+## 5.	Format of the course: 
 •	This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
 
 ## 6. Course syllabus:
 **Required book:**
-•	Chun, W. (2012). Core python application programming (3rd ed.). Prentice Hall. (ISBN-13: 007-6092048114; ISBN-10: 0132678209) 
+
+* Chun, W. (2012). Core python application programming (3rd ed.). Prentice Hall. (ISBN-13: 007-6092048114; ISBN-10: 0132678209) 
 
 **Suggested supplemental books:**
 
-•	Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley Publishing. (ISBN-13: 978-1118290279; ISBN-10: 1118290275)
-•	Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495)
-•	Gawron, J. Mark. (2015). Python for social science. Available at: http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html. Accessed May 29th, 2016. 
+* Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley Publishing. (ISBN-13: 978-1118290279; ISBN-10: 1118290275)
+* Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495)
+* Gawron, J. Mark. (2015). Python for social science. Available at: http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html. Accessed May 29th, 2016. 
 
 **Online Tutorials:**
+
 - Pyplot:
 •	http://matplotlib.org/api/pyplot_api.html
 •	http://matplotlib.org/users/pyplot_tutorial.html
@@ -91,8 +96,8 @@ Upon completion of this course students will be able to:
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
-C = Chun, W. Book 
-G= Gawron, M. Book
+- C = Chun, W. Book 
+- G= Gawron, M. Book
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
@@ -126,11 +131,12 @@ G= Gawron, M. Book
 
 
 **Notes about assignments:**
-•	All written assignments must be submitted before 11:55 pm of a respective assignment date;
-•	All coding assignments must be submitted in the form of an iPython notebook. Support will be provided on how to create notebooks;
-•	Project proposal/outline must be in a pdf format;
-•	All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” etc.  
-o	For example: “abdul-mageed_assignment01.ipynb” 
+
+* All written assignments must be submitted before 11:55 pm of a respective assignment date;
+* All coding assignments must be submitted in the form of an iPython notebook. Support will be provided on how to create notebooks;
+* Project proposal/outline must be in a pdf format;
+* All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” etc.  
+*For example: “abdul-mageed_assignment01.ipynb”*
 
 **Assignments in Detail**
 
@@ -143,54 +149,57 @@ A total of 12 code snippets for the code you write for each of the first 12 week
 **Assignment 2 & assignment 3: Coding assignments**
 These two assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
 
-•	You must run your code before submitting, and ensure it is working code. Also, you should provide the output of the code in the iPython notebook itself. For code that writes to a file, you are required to deliver the output files as well.
-•	For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
-•	In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
+* You must run your code before submitting, and ensure it is working code. Also, you should provide the output of the code in the iPython notebook itself. For code that writes to a file, you are required to deliver the output files as well.
+* For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
+* In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
 **Deliverables: iPython notebooks with code**
-•	For each of assignment 1 and assignment 2, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
+* For each of assignment 1 and assignment 2, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
 
 **Assignment 4: Term Project**
 The purposes of this assignment include:
-•	Identifying, analyzing, assessing, and solving a problem or need using Python programming;
-•	Applying acquired Python skills and knowledge to practical tasks;
-•	Developing oral and written communication skills through discussions with classmates and instructor;
-•	Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
+
+* Identifying, analyzing, assessing, and solving a problem or need using Python programming;
+* Applying acquired Python skills and knowledge to practical tasks;
+* Developing oral and written communication skills through discussions with classmates and instructor;
+* Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
 
 For this assignment, each student is required to work as part of a group of of 3/4* on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualize concepts from a data source, summarize texts, build a website that delivers some service, build a web interface or an app for a service (e.g., a library service), build an interactive database with use case scenarios in meaningful contexts. 
 
 **Deliverables**
 Proposal (500-700 words)
-•	Who are the the group members?
-•	What are you designing or coding for?
-•	What motivates your work? Why is it important or useful? For which audience?
-•	How does your project compare to other projects people have articulated?
-•	How do you think the project will further your Python programming skills?
-•	What Python libraries do you expect to use?
-•	How does the work bread down and what each member of the team be contributing?
-•	Timeline for completing the project, including goals for each segment.
+
+* Who are the the group members?
+* What are you designing or coding for?
+* What motivates your work? Why is it important or useful? For which audience?
+* How does your project compare to other projects people have articulated?
+* How do you think the project will further your Python programming skills?
+* What Python libraries do you expect to use?
+* How does the work bread down and what each member of the team be contributing?
+* Timeline for completing the project, including goals for each segment.
 
 **Presentation**
 Each team will present their final project to the class. Each student is required to participate in the presentation preparation and articulation. Your presentation should first motivate your work, explaining its significance and audience, and how it furthered your Python programming skills. The team should then explain the various steps the work involved and the final outcome and its functionality. The time devoted to presentations will depend on the number of projects and the class time available. More details about scheduling will be provided and discussed toward the end of the semester.
 
 **Final Report/Paper (4000-5000 words)**
 The final deliverable should include:
-•	A detailed and clear description of your project, including the necessary sections, as appropriate. For system-oriented projects (e.g., building a website or an app), you will need to provide motivations, describe the audience, details of your implementation, and system functionality. For projects more focused on data analysis, you will need to include research questions, a brief literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
-•	All relevant code;
-•	Pointers to live versions of your system, if any;
-•	Some of these components will be more relevant to some projects but not others. For example, if your project involves a system for analysis of a dataset, you will need to include standard sections as you would find in an academic journal;
-•	As appropriate, you should situate your work within the wider context of previous works and approaches, with supporting arguments (~ 10 sources);
-•	Use case scenarios and screenshots from your system interface, if any;
-•	Employment of figures, tables, and visualizations as appropriate to enhance argument and facilitate communicating your findings/results;
+
+* A detailed and clear description of your project, including the necessary sections, as appropriate. For system-oriented projects (e.g., building a website or an app), you will need to provide motivations, describe the audience, details of your implementation, and system functionality. For projects more focused on data analysis, you will need to include research questions, a brief literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
+* All relevant code;
+* Pointers to live versions of your system, if any;
+* Some of these components will be more relevant to some projects but not others. For example, if your project involves a system for analysis of a dataset, you will need to include standard sections as you would find in an academic journal;
+* As appropriate, you should situate your work within the wider context of previous works and approaches, with supporting arguments (~ 10 sources);
+* Use case scenarios and screenshots from your system interface, if any;
+* Employment of figures, tables, and visualizations as appropriate to enhance argument and facilitate communicating your findings/results;
 
 
 ## 9. Course Policies
 
-Attendance: The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
+**Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
-Evaluation: All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
+**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
 
-Written & Spoken English Requirement: Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
+**Written & Spoken English Requirement:** Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
 
 **Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
 **Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. UBC policy on Religious Holidays: http://www.universitycounsel.ubc.ca/policies/policy65.pdf.
@@ -203,13 +212,13 @@ It is your responsibility to make sure you fully understand what plagiarism is. 
 
 "The bulk of plagiarism falls into this category. Reckless plagiarism is often the result of careless research, poor time management, and a lack of confidence in your own ability to think critically. Examples of reckless plagiarism include:
 
-•	Taking phrases, sentences, paragraphs, or statistical findings from a variety of sources and piecing them together into an essay (piecemeal plagiarism);
-•	Taking the words of another author and failing to note clearly that they are not your own. In other words, you have not put a direct quotation within quotation marks;
-•	Using statistical findings without acknowledging your source;
-•	Taking another author's idea, without your own critical analysis, and failing to acknowledge that this idea is not yours;
-•	Paraphrasing (i.e. rewording or rearranging words so that your work resembles, but does not copy, the original) without acknowledging your source;
-•	Using footnotes or material quoted in other sources as if they were the results of your own research; and
-•	Submitting a piece of work with inaccurate text references, sloppy footnotes, or incomplete source (bibliographic) information."
+* Taking phrases, sentences, paragraphs, or statistical findings from a variety of sources and piecing them together into an essay (piecemeal plagiarism);
+* Taking the words of another author and failing to note clearly that they are not your own. In other words, you have not put a direct quotation within quotation marks;
+* Using statistical findings without acknowledging your source;
+* Taking another author's idea, without your own critical analysis, and failing to acknowledge that this idea is not yours;
+* Paraphrasing (i.e. rewording or rearranging words so that your work resembles, but does not copy, the original) without acknowledging your source;
+* Using footnotes or material quoted in other sources as if they were the results of your own research; and
+* Submitting a piece of work with inaccurate text references, sloppy footnotes, or incomplete source (bibliographic) information."
 
 Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the Academic Integrity Resource Centre http://help.library.ubc.ca/researching/academic-integrity. Additional information is available on the Connect site http://connect.ubc.ca. 
 
