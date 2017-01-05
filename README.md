@@ -101,7 +101,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Jan 5 | Course overview, Intro. to Unix Online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
+| 1 | Jan 5 | Course overview, Intro. to Unix. See Notebook: https://github.com/mageed/libr559c/blob/master/python_1.ipynb. See online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
 | 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 |  |
 |3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 1 out |
 |4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
