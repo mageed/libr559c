@@ -76,7 +76,7 @@ Upon completion of this course students will be able to:
 ## 6. Course syllabus:
 **Required book:**
 
-* Chun, W. (2012). Core python application programming (3rd ed.). Prentice Hall. (ISBN-13: 007-6092048114; ISBN-10: 0132678209) 
+* Chun, W. (2012). Core python programming (2nd ed.). Prentice Hall. (ISBN-13: 978-0132269933; ISBN-10: 0132269937) https://www.amazon.ca/Core-Python-Programming-Wesley-Chun/dp/0132269937/ref=sr_1_1?ie=UTF8&qid=1483991570&sr=8-1&keywords=Core+Python+Programming)
 
 **Suggested supplemental books:**
 
