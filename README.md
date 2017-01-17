@@ -103,13 +103,13 @@ Upon completion of this course students will be able to:
 |-------|-------|-------|-------| -------|
 | 1 | Jan 5 | Course overview, Intro. to Unix. See Notebook: https://github.com/mageed/libr559c/blob/master/python_1.ipynb. See online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
 | 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 |  |
-|3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 1 out |
+|3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
 |4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
-| 5 | Feb 2 | Files and Input/Output; Errors and Exceptions C-Ch. 9, 10 | Assignment 1 due Assignment 2 out|
+| 5 | Feb 2 | Files and Input/Output; Errors and Exceptions C-Ch. 9, 10 | Assignment 2 due; Assignment 3 out|
 |6 | Feb 9 | Functions; Modules C-Ch. 11, 12 |
 | | Feb 16 | Winter Break |  |
 | 7 | Feb 23 | Classes C-Ch. 13 |  |
-| 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 2 due | 
+| 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 3 due | 
 | 9 | Mar 8 | Web crawling G-Ch. 11 | Project outline due| 
 | 10 | Mar 15 Text processing I NLTK Ch. 3|  |
 | 11 | Mar 22 | Statistics & data visualization I, Pandas tutorials I |  |
