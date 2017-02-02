@@ -164,7 +164,7 @@ The purposes of this assignment include:
 * Developing oral and written communication skills through discussions with classmates and instructor;
 * Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
 
-For this assignment, each student is required to work as part of a group of of 3/4* on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualize concepts from a data source, summarize texts, build a website that delivers some service, build a web interface or an app for a service (e.g., a library service), build an interactive database with use case scenarios in meaningful contexts. 
+For this assignment, each student is required to work as part of a group of of 3/4* on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualizes concepts from a data source, summarizes texts, builds a website that delivers some service, builds a web interface or an app for a service (e.g., a library service), builds an interactive database with use case scenarios in meaningful contexts. 
 
 **Deliverables**
 Proposal (500-700 words)
