@@ -105,16 +105,16 @@ Upon completion of this course students will be able to:
 | 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 |  |
 |3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
 |4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
-| 5 | Feb 2 | Files and Input/Output; Errors and Exceptions C-Ch. 9, 10 | Assignment 2 due; Assignment 3 out|
-|6 | Feb 9 | Functions; Modules C-Ch. 11, 12 |
-| | Feb 16 | Winter Break |  |
-| 7 | Feb 23 | Classes C-Ch. 13 |  |
-| 8 | Mar 1 | Regular expressions C-Ch. 15 | Assignment 3 due | 
-| 9 | Mar 8 | Web crawling G-Ch. 11 | Project outline due| 
-| 10 | Mar 15 Text processing I NLTK Ch. 3|  |
-| 11 | Mar 22 | Statistics & data visualization I, Pandas tutorials I |  |
-| 12 | Mar 29 | Statistics & data visualization II, Pandas tutorials II & Pyplot |  |
-| 13 | Apr 5 | | Presentations |
+| 5 | Feb 2 | Files and Input/Output C-Ch. 9 | Assignment 2 due; Assignment 3 out|
+|6 | Feb 9 | Functions C-Ch. 11 |
+| | Feb 16 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
+| 7 | Feb 23 | Winter Break |  |
+| 8 | Mar 1 |  Text processing NLTK Ch. 3 | Assignment 3 due | 
+| 9 | Mar 8 | Regular expressions C-Ch. 15 | Project outline due| 
+| 10 | Mar 15 | Web crawling G-Ch. 11  |
+| 11 | Mar 22 |  Classes C-Ch. 13 |  |
+| 12 | Mar 29 | Statistics & data visualization II, Pandas tutorials I |  |
+| 13 | Apr 5 | | Muhammad @Conference |
 | | Apr 8 | | | Final paper due |
 
 
@@ -164,7 +164,7 @@ The purposes of this assignment include:
 * Developing oral and written communication skills through discussions with classmates and instructor;
 * Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
 
-For this assignment, each student is required to work as part of a group of of 3/4* on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualizes concepts from a data source, summarizes texts, builds a website that delivers some service, builds a web interface or an app for a service (e.g., a library service), builds an interactive database with use case scenarios in meaningful contexts. 
+For this assignment, each student is required to work as part of a group of of 3/4 on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualizes concepts from a data source, summarizes texts, builds a website that delivers some service, builds a web interface or an app for a service (e.g., a library service), builds an interactive database with use case scenarios in meaningful contexts. 
 
 **Deliverables**
 Proposal (500-700 words)
