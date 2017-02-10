@@ -114,7 +114,7 @@ Upon completion of this course students will be able to:
 | 10 | Mar 15 | Web crawling G-Ch. 11  |
 | 11 | Mar 22 |  Classes C-Ch. 13 |  |
 | 12 | Mar 29 | Statistics & data visualization II, Pandas tutorials I |  |
-| 13 | Apr 5 | | Muhammad @Conference |
+| 13 | Apr 5 | Muhammad @Conference |  |
 | | Apr 8 | | | Final paper due |
 
 
