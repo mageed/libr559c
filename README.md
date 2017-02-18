@@ -126,8 +126,7 @@ Upon completion of this course students will be able to:
 | ASSIGNMENT 3: | March 1 | 15% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal | March 8 | 5% |
-| Presentation | April 5 | 10% |
-| Report/Product | April 8 |30% |
+| Report/Product | April 8 |40% |
 
 
 **Notes about assignments:**
@@ -178,8 +177,6 @@ Proposal (500-700 words)
 * How does the work bread down and what each member of the team be contributing?
 * Timeline for completing the project, including goals for each segment.
 
-**Presentation**
-Each team will present their final project to the class. Each student is required to participate in the presentation preparation and articulation. Your presentation should first motivate your work, explaining its significance and audience, and how it furthered your Python programming skills. The team should then explain the various steps the work involved and the final outcome and its functionality. The time devoted to presentations will depend on the number of projects and the class time available. More details about scheduling will be provided and discussed toward the end of the semester.
 
 **Final Report/Paper (4000-5000 words)**
 The final deliverable should include:
