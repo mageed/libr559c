@@ -81,7 +81,7 @@ Upon completion of this course students will be able to:
 **Suggested supplemental books:**
 
 * Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley Publishing. (ISBN-13: 978-1118290279; ISBN-10: 1118290275)
-* Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495)
+* Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495) [[link] (http://www.nltk.org/book/)]
 * Gawron, J. Mark. (2015). Python for social science. Available at: http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html. Accessed May 29th, 2016. 
 
 **Online Tutorials:**
@@ -109,10 +109,10 @@ Upon completion of this course students will be able to:
 |6 | Feb 9 | Functions C-Ch. 11 |
 | | Feb 16 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
 | 7 | Feb 23 | Winter Break |  |
-| 8 | Mar 1 |  Text processing NLTK Ch. 3 | Assignment 3 due | 
+| 8 | Mar 1 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)] | Assignment 3 due | 
 | 9 | Mar 8 | Regular expressions C-Ch. 15 [Watch Video Tutorials!] | Project outline due| 
 | 10 | Mar 15 | Web crawling G-Ch. 11 & Revision |
-| 11 | Mar 22 |  Classes C-Ch. 13 [[link] (http://www.nltk.org/book/)] |  |
+| 11 | Mar 22 |  Classes C-Ch. 13  |  |
 | 12 | Mar 29 | Statistics & data visualization  & Revision |  |
 | 13 | Apr 5 | Muhammad @Conference |  |
 | | Apr 8 | | | Final paper due |
