@@ -112,7 +112,7 @@ Upon completion of this course students will be able to:
 | 8 | Mar 1 |  Text processing NLTK Ch. 3 | Assignment 3 due | 
 | 9 | Mar 8 | Regular expressions C-Ch. 15 [Watch Video Tutorials!] | Project outline due| 
 | 10 | Mar 15 | Web crawling G-Ch. 11 & Revision |
-| 11 | Mar 22 |  Classes C-Ch. 13 |  |
+| 11 | Mar 22 |  Classes C-Ch. 13 [[link] (http://www.nltk.org/book/)] |  |
 | 12 | Mar 29 | Statistics & data visualization  & Revision |  |
 | 13 | Apr 5 | Muhammad @Conference |  |
 | | Apr 8 | | | Final paper due |
