@@ -109,7 +109,7 @@ Upon completion of this course students will be able to:
 |6 | Feb 9 | Functions C-Ch. 11 |
 | | Feb 16 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
 | 7 | Feb 23 | Winter Break |  |
-| 8 | Mar 1 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]; [*Watch Video Tutorials!*] | Assignment 3 due | 
+| 8 | Mar 2 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]; [*Watch Video Tutorials!*] | Assignment 3 due | 
 | 9 | Mar 8 | Regular expressions C-Ch. 15 | Project outline due| 
 | 10 | Mar 15 | Web crawling G-Ch. 11 & Revision |
 | 11 | Mar 22 |  Classes C-Ch. 13  |  |
@@ -123,7 +123,7 @@ Upon completion of this course students will be able to:
 | ---------- | -------- | ------ |
 | ASSIGNMENT 1: In-class code | Throughout first 12 weeks | 30% |
 | ASSIGNMENT 2: | Feb. 2 | 10% |
-| ASSIGNMENT 3: | March 1 | 15% |
+| ASSIGNMENT 3: | March 2 | 15% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal | March 8 | 5% |
 | Report/Product | April 8 |40% |
