@@ -153,7 +153,7 @@ These two assignments are coding exercises meant to support learning of the cove
 * In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
 **Deliverables: iPython notebooks with code**
-* For each of assignment 1 and assignment 2, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
+* For each of assignments 2 and 3, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
 
 **Assignment 4: Term Project**
 The purposes of this assignment include:
