@@ -126,7 +126,7 @@ Upon completion of this course students will be able to:
 | ASSIGNMENT 3: | March 2 | 15% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal | March 8 | 5% |
-| Report/Product | April 8 |40% |
+| Report/Product | April 15 |40% |
 
 
 **Notes about assignments:**
